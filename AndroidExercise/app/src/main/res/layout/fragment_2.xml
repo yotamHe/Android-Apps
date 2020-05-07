@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.Fragment2">
+
+    <Button
+        android:id="@+id/button1Frag2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="75sp"
+        android:layout_marginTop="300sp"
+        android:layout_marginRight="75sp"
+        android:layout_marginBottom="300sp"
+        android:text="Button" />
+</FrameLayout>
